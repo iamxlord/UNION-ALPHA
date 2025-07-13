@@ -2,7 +2,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App.js'; // Make sure this path correctly points to your App.js
+import App from './App.jsx'; // Make sure this path correctly points to your App.jsx
 import './App.css'; // Import your main CSS file
 
 ReactDOM.createRoot(document.getElementById('root')).render(
